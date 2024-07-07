@@ -1,0 +1,42 @@
+[submodule "tile--ideas"]
+	path = tile--ideas
+	url = https://github.com/JCardonaCTRL/oacs-pkg_tile--ideas.git
+[submodule "ctrl-jwt"]
+	path = ctrl-jwt
+	url = https://github.com/JCardonaCTRL/oacs-pkg_ctrl-jwt.git
+[submodule "ctrl-mobile-hub"]
+	path = ctrl-mobile-hub
+	url = https://github.com/JCardonaCTRL/oacs-pkg_ctrl-mobile-hub.git
+[submodule "ctrl-procs"]
+	path = ctrl-procs
+	url = https://github.com/JCardonaCTRL/oacs-pkg_ctrl-procs.git
+[submodule "ctrl-ws-restful"]
+	path = ctrl-ws-restful
+	url = https://github.com/JCardonaCTRL/oacs-pkg_ctrl-ws-restful.git
+[submodule "dgit-base-tile"]
+	path = dgit-base-tile
+	url = https://github.com/JCardonaCTRL/oacs-pkg_dgit-base-tile.git
+[submodule "dgit-connect-videos"]
+	path = dgit-connect-videos
+	url = https://github.com/JCardonaCTRL/oacs-pkg_dgit-connect-videos.git
+[submodule "dgit-ideas"]
+	path = dgit-ideas
+	url = https://github.com/JCardonaCTRL/oacs-pkg_dgit-ideas.git
+[submodule "dgit-group-tiles"]
+	path = dgit-group-tiles
+	url = https://github.com/JCardonaCTRL/oacs-pkg_dgit-group-tiles.git
+[submodule "dgit-tile-management"]
+	path = dgit-tile-management
+	url = https://github.com/JCardonaCTRL/oacs-pkg_dgit-tile-management.git
+[submodule "dgit-group-user-management"]
+	path = dgit-group-user-management
+	url = https://github.com/JCardonaCTRL/oacs-pkg_dgit-group-user-management.git
+[submodule "tile--alerts"]
+	path = tile--alerts
+	url = https://github.com/JCardonaCTRL/oacs-pkg_tile--alerts.git
+[submodule "tile--connect-videos"]
+	path = tile--connect-videos
+	url = https://github.com/JCardonaCTRL/oacs-pkg_tile--connect-videos.git
+[submodule "tile--generic"]
+	path = tile--generic
+	url = https://github.com/JCardonaCTRL/oacs-pkg_tile--generic.git
